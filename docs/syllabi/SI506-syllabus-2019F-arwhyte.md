@@ -34,7 +34,7 @@ The SI 506 teaching team consists of the following members:
 | Anthony Whyte | Instructor | <arwhyte@umich.edu> | Roumanis Square, 715 N. University Ave, 2nd floor ("the loft") | he/him/his |
 | Yan Chen | GSI | <yanchenm@umich.edu> | | |
 | Gabriel Grill | GSI | <ggrill@umich.edu> | | |
-| Pei-Yao Hung | GSI | <peiyaoh@umich.edu> | | |
+| Pei-Yao Hung | GSI | <peiyaoh@umich.edu> | | he/him/his |
 | Ihudiya Finda Ogbonnaya-Ogburu | GSI | <iogburu@umich.edu> | | |
 | Bryan Romas | GSI | <bromas@umich.edu> | | |
 | Rob Rumble | GSI | <rumbler@umich.edu> | | |
