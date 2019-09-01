@@ -4,7 +4,7 @@
 
 ## Course Description
 
-SI 506 is designed for graduate students with little or no programming experience. SI 506 together with SI 507 constitutes an introductory course series that focuses on programming fundamentals. As a foundational course SI 506 serves as a prerequisite for SI 507 along with other more advanced MSI/MHI courses. SI 508 provides an accelerated programming experience, one that covers the learning objectives of both SI 506 and SI 507 in a single semester (it is offered only occasionally).
+SI 506 is designed for graduate students with little or no programming experience. SI 506 together with SI 507 constitutes an introductory course series that focuses on programming fundamentals. As a foundational course SI 506 serves as a prerequisite for SI 507 along with other more advanced MSI/MHI courses.
 
 Again, no one who enrolls in this course is expected to have any prior programming experience. The programming language of instruction is [Python 3.x](https://www.python.org/), a general-purpose, object-oriented, dynamically typed, interpreted language popular among developers and data scientists.
 
@@ -15,7 +15,7 @@ Leverage Python at the introductory level to
 * solve computing challenges skillfully
 * debug runtime errors quickly
 * process data efficiently
-* prepare for SI 507 :wink:
+* prepare for SI 507
 
 Key topics covered in this course include:
 * Python syntax and semantics
@@ -29,18 +29,26 @@ Key topics covered in this course include:
 ## Teaching Team
 The SI 506 teaching team consists of the following members:
 
-| Team Member | Role | email | office | pronouns |
-|:------ | :--- | :---- | :----- | :------- |
-| Anthony Whyte | Instructor | <arwhyte@umich.edu> | Roumanis Square, 715 N. University Ave, 2nd floor ("the loft") | he/him/his |
-| Yan Chen | GSI | <yanchenm@umich.edu> | | |
-| Gabriel Grill | GSI | <ggrill@umich.edu> | | |
-| Pei-Yao Hung | GSI | <peiyaoh@umich.edu> | | he/him/his |
-| Ihudiya Finda Ogbonnaya-Ogburu | GSI | <iogburu@umich.edu> | | |
-| Bryan Romas | GSI | <bromas@umich.edu> | | |
-| Rob Rumble | GSI | <rumbler@umich.edu> | | |
-| Andrew Vande Guchte | GSI | <avandegu@umich.edu> | | |
-| Sansitha Nandakumar | IA | <sansitha@umich.edu> | | |
-| Yangtao 'Max' Zhang | IA | <maxzhang@umich.edu> | | |
+### Lecturer
+
+Anthony Whyte \| <arwhyte@umich.edu> <br />
+Roumanis Square, 2nd floor ("the loft") <br />
+715 N. University Ave, Ann Arbor, MI 48109 <br />
+Pronoun preference: he/him/his
+
+### Graduate Student Instructors (GSI) and Instructional Assistants (IA)
+
+| Team Member | role | email | pronouns |
+|:----------- | :--- | :---- | :------- |
+| Yan Chen | GSI | <yanchenm@umich.edu> | |
+| Gabriel Grill | GSI | <ggrill@umich.edu> | he/him/his |
+| Pei-Yao Hung | GSI | <peiyaoh@umich.edu> | he/him/his |
+| Ihudiya Finda Ogbonnaya-Ogburu | GSI | <iogburu@umich.edu> | she/hers/her |
+| Bryan Romas | GSI | <bromas@umich.edu> | he/him/his |
+| Rob Rumble | GSI | <rumbler@umich.edu> | |
+| Andrew Vande Guchte | GSI | <avandegu@umich.edu> | |
+| Sansitha Nandakumar | IA | <sansitha@umich.edu> | she/hers/her |
+| Yangtao 'Max' Zhang | IA | <maxzhang@umich.edu> | |
 
 ## Lectures
 
@@ -77,6 +85,7 @@ Listed below are the general topics that we plan to cover, in approximate order:
 * Function definition
 * Sorting data
 * Debugging
+* Unix shell
 * Python installation and command prompt use
 * Introductory Bash commands for programming
 * File methods and file reading/writing
@@ -92,7 +101,7 @@ Listed below are the general topics that we plan to cover, in approximate order:
 
 We plan to cover two to four topics per week. Assignments will be based on a given week's lectures.
 
-:exclamation: Lecture attendance is not mandatory but it is assumed that graduate students will make every effort to attend each lecture. Historically there is a strong correlation with non-attendance at lecture and poorer performance on problem sets, even for students who have previous programming experience.
+:warning: Please make every effort to attend each lecture. Historically there is a strong correlation between lecture non-attendance and diminished performance on problem sets, midterm exams, and final projects.
 
 ## Labs
 
@@ -125,7 +134,7 @@ Optional office hour sessions are staffed by 1-2 members of the teaching team. I
 | Ihudiya Finda Ogbonnaya-Ogburu, Pei-Yao Hung | Tuesday | 3:00-4:00 PM | Central Campus | North Quad (NQ) | 1270 |
 | Ihudiya Finda Ogbonnaya-Ogburu, Yan Chen | Tuesday | 5:30-6:30 PM | Central Campus | North Quad (NQ) | 1270 |
 | Gabriel Grill, Bryan Romas | Wednesday | 1:00-2:30 PM | Central Campus | North Quad (NQ) | 1278 |
-| Pei-Yao Hung, Yan Chen | Wednesday | 4:00-5:00 PM | Central Campus | North Quad (NQ) | 1278 |
+| Pei-Yao Hung, Yan Chen | Wednesday | 4:30-5:30 PM | Central Campus | North Quad (NQ) | 1278 |
 | Anthony Whyte | Thursday | 5:30-7:00 PM | Central Campus | North Quad (NQ) | 1278 |
 | Andrew vande Guchte, Rob Rumble | Friday | 10:00-11:30 AM | Central Campus | North Quad (NQ) | 1243 |
 
@@ -133,34 +142,32 @@ You can also schedule individual appointments with Anthony to discuss personal c
 
 ## Communications
 
+We use the [Piazza Q&A platform](https://piazza.com) to "crowd source" responses to programming questions and other issues of general concern. Contributions are not required but are encouraged.
+
+If you have a question that pops up outside the lecture, lab, or office hours, post it on the Piazza Q&A platform. You can access Piazza via Canvas (you can also log in through Piazza directly after you have enrolled in our 'Piazza class' by clicking a link in an email or doing so on the Canvas site).
+
+:exclamation: Avoid emailing your GSI or instructor directly with a programming question. Broadcast it on Piazza so that your classmates can participate in helping resolve your issue.
+
+:warning: Please do not post problem set solutions on Piazza.
+
 ### Announcements
 
 General announcements and reminders will be posted to Canvas using the Announcements tool.
 
-### Teaching Team
+### Auto Grader/Scoring issues
 
-Please utilize the team email address when communicating with members of the teaching team.
-
-<si506team-fall19@umich.edu>
-
-Contacting the team as a whole is preferred to contacting team members individually since it puts more eyes on the question and provides opportunities for faster response times.
-
-### Piazza Q&A
-
-We use the Piazza Q&A platform to "crowd source" responses to coding questions and other issues of general concern. Contributions are not required but are encouraged.
-
-If you have a Python question that pops up outside the lecture, lab, or office hours, post it on the Piazza Q&A platform. You can access Piazza via Canvas (you can also log in through Piazza directly after you have enrolled in our 'Piazza class' by clicking a link in an email or doing so on the Canvas site). Avoid emailing your GSI or instructor directly with a coding question. Broadcast it on Piazza so that your classmates can participate in helping resolve your issue.
+If you have a concern about a score on any assignment, believe that we've missed something and want us to check, or desire a score explanation or re-grade, please contact your GSI.  If warranted your concern will be escalated to Anthony.
 
 ### Personal concerns
 
-If a personal concern or private matter requires communications with the instructor __only__, please talk to Anthony directly or email him at <arwhyte@umich.edu>.
+If a personal concern or private matter requires communications with the instructor __only__, never hesitate to talk to Anthony directly or email him at <arwhyte@umich.edu>.
 
 Feel free to also contact the UMSI [Office of Student Affairs](https://www.si.umich.edu/academics/office-student-affairs) (OSA) if an issue arises that poses a challenge to your academic success. UMSI students can reach the OSA support team at the following email addresses:
 
 * MSI students: <umsi.advising.msi@umich.edu>
 * MHI students: <umsi.advising.mhi@umich.edu>
 
-OSA is especially useful if an emergency requires you to step away from your coursework. OSA can help reach out to all your instructors in order to make them aware of your situation. OSAA is also an excellent resource if you have questions about enrollment, retention, graduation, and career success. You can also contact OSA whenever you require academic or personal advising while in the program.
+OSA is especially useful if an emergency requires you to step away from your coursework. OSA can help reach out to all your instructors in order to make them aware of your situation. OSA is also an excellent resource if you have questions about enrollment, retention, graduation, and career success. You can also contact OSA whenever you require academic or personal advising while in the program.
 
 ## Assignments
 
@@ -170,7 +177,7 @@ Assignment due dates will be posted on Canvas. Canvas is the source of truth for
 
 ### Readings
 
-Assigned readings are a key component of this course. The readings complement and amplify each lecture and lab. Readings should be completed before you attempt any of the accompanying problem set assignments. There is nothing to submit after completing a reading, but be prepared to budget time to engage with the content thoughtfully.  
+Recommended readings are a key component of this course. The readings complement and amplify each lecture and lab. Readings should be completed before you attempt any of the accompanying problem set assignments. There is nothing to submit after completing a reading, but be prepared to budget time to engage with the content thoughtfully.  
 
 Many of the texts will be sourced from O'Reilly, a prodigious publisher of computing monographs, videos, tutorials, and related content. O'Reilly provides an online platform for accessing its content that you can access free of charge as a U-M student. See the U-M Library [instructions](https://www.lib.umich.edu/announcements/oreilly-safari-books-online) for creating an account or visit https://www.safaribooksonline.com/library/view/temporary-access/ and log in with your U-M email address (account confirmation required).
 
@@ -178,27 +185,27 @@ Many of the texts will be sourced from O'Reilly, a prodigious publisher of compu
 
 Problem sets comprising one or more programming problems to be solved using Python will be assigned weekly. Each programming assignment provides an opportunity to write code, solve programming problems, and demonstrate your increasing fluency in the language.
 
-You can earn up to 500 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Sunday evening at 11:59 PM Eastern time.
-
-:exclamation: At the end of the semester, the problem set earning the lowest score will be _dropped_ and the points otherwise lost will be excluded from final grade calculations.
+You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Sunday evening at 11:59 PM Eastern time.
 
 ### Labs
 
-GSI-led labs are designed to both reinforce and explore further programming concepts and topics discussed during the lectures. Labs require active participation to be effective. Discussion, Q&A, and problem-solving activities will predominate. Lab attendance is _mandatory_.
+GSI-led labs are designed to both reinforce and explore further programming concepts and topics discussed during the lectures. Labs require active participation to be effective. Discussion, Q&A, and problem-solving activities will predominate.
 
-Weekly lab attendance is worth 100 points. The points are earned by submitting code or a related deliverable at the end of each session. Scoring is based on the attempt rather than correctness.
+Weekly labs will feature an exercise worth 25 points of extra credit. The points are earned by submitting code or a related deliverable at the end of each session. Scoring is based on the attempt rather than correctness.
 
-:exclamation: A maximum of two (2) lab sessions may be missed without penalty and the points otherwise lost will be excluded from final grade calculations.
+:exclamation: Attend the labs and do the lab exercises. You can earn up to 300 extra credit points which can boost a final grade considerably.
+
+__Example__: 4350 regular points (B+) + 300 extra credit points = 4650 total points (A).
 
 ### In-Class Midterm Exam
 
-An in-class, "open book, open network" midterm exam will be held on Thursday, 17 October, 2019. The midterm exam is worth 3500 points.  More details regarding the midterm exam will be provided in class.
+An in-class, "open book, open network" midterm exam will be held on Thursday, 17 October, 2019. The midterm exam is worth 1000 points. More details regarding the midterm exam will be provided in class.
 
-If the Services for Students with Disabilities (SSD) office has issued you a test-related accommodation please inform Anthony.
+:exclamation: If the Services for Students with Disabilities (SSD) office has issued you a test-related accommodation please inform Anthony at least two weeks before the midterm date.
 
 ### Final Project
 
-The weekly Problem sets are designed to prepare you for submitting a final project that will involve Python scripting. The final project is worth 5500 points. A project plan (500 points) outlining the final project deliverable's purpose, design and relevant implementation details is due two weeks before submission of the final project. More details regarding final project requirements will be provided in class.
+The weekly problem sets are designed to prepare you for submitting a final project that will involve Python scripting. A project plan outlining the final project deliverable's purpose, design and relevant implementation details is due two weeks before submission of the final project. The final project plan is worth 100 points while the final project is worth 2400 points. More details regarding final project requirements will be provided in class.
 
 ## Calendar Highlights: Midterm exam, Final Project, and meeting cancellations
 
@@ -225,41 +232,44 @@ The weekly Problem sets are designed to prepare you for submitting a final proje
 
 ## Assignment Scoring
 
-Problems sets will be scored using a Python auto grader. Labs will require a file submission that will be manually scored. Instructions on how to submit assignments will be provided. Scores will be posted on Canvas.
+Problems sets will be scored using a Python auto grader. Other assignments may use auto graders and/or be scored manually. Instructions on how to submit assignments will be provided. Scores will be posted on Canvas.
 
-| Week | Assignment | Points | Weight\* | Running Total | Notes |
-| :-----: | :----------| -----: | -----: | ------------: | :----- |
-| 01 | Lab 01 | 100 | .0066 | 100 | |
-| 02 | Lab 02 | 100 | .0066 |  200 | |
-| 02 | Problem 01 | 500 | .0333 |  700 | |
-| 03 | Lab 03 | 100 | .0066 |  800 | |
-| 03 | Problem set 02 | 500 | .0333 | 1300 | |
-| 04 | Lab 04 | 100 | .0066 |  1400 | |
-| 04 | Problem set 03 | 500 | .0333 | 1900 | |
-| 05 | Lab 05 | 100 | .0066 |  2000 | |
-| 05 | Problem set 04 | 500 | .0333 | 2500 | |
-| 06 | Lab 06 | 100 | .0066 |  2600 | |
-| 06 | Problem set 05 | 500 | .0333 | 3100 | |
-| 07 | Midterm Exam | 3500 | .2333 | 6600 | |
-| 08 | Lab 07 | 100 | .0066 |  6700 | |
-| 08 | Problem set 06 | 500 | .0333 | 7200 | |
-| 09 | Lab 08 | 100 | .0066 |  7300 | |
-| 09 | Problem set 07 | 500 | .0333 | 7800 | |
-| 10 | Lab 09 | 100 | .0066 |  7900 | |
-| 10 | Problem set 08 | 500 | .0333 | 8400 | |
-| 11 | Lab 10 | 100 | .0066 |  8500 | |
-| 11 | Problem set 09 | 500 | .0333 | 9000 | |
-| 12 | Lab 11| 100 | .0066 |  9100 | |
-| 12 | Problem set 10 | 500 | .0333 | 9600 | |
-| 13 | Final Project Plan | 500 | .0333 | 10100 | |
-| 14 | Lab 12 | 100 | .0066 | 10200 | |
-| 15 | Final Project | 5500 | .3666 | 15700 | |
-| 15 | Problem set low score | -500 | | 15200 | Lowest score dropped. |
-| 15 | Lab absences | -200 | | 15000 | Two absences permitted without penalty. |
+### Course Points
 
-\*Note: Assignment weight is based on adjusted point total of 15000.
+| Week | Assignment | Points | Weight | Running Total |
+| :-----: | :----------| -----: | -----: | ------------: |
+| 02 | Problem set 01 | 150 | .030 | 150 |
+| 03 | Problem set 02 | 150 | .030 | 300 |
+| 04 | Problem set 03 | 150 | .030 | 450 |
+| 05 | Problem set 04 | 150 | .030 | 600 |
+| 06 | Problem set 05 | 150 | .030 | 750 |
+| 07 | __Midterm Exam__ | 1000 | .200 | 1750 |
+| 08 | Problem set 06 | 150 | .030 | 1900 |
+| 09 | Problem set 07 | 150 | .030 | 2050 |
+| 10 | Problem set 08 | 150 | .030 | 2200 |
+| 11 | Problem set 09 | 150 | .030 | 2350 |
+| 12 | Problem set 10 | 150 | .030 | 2500 |
+| 13 | Final Project Plan | 100 | .020 | 2600 |
+| 15 | __Final Project__ | 2400 | .480 | 5000 |
 
-:exclamation: If you have a concern about a score on any assignment, believe we've missed something and want us to check, or desire a score explanation or re-grade, please contact the teaching team.
+### Extra Credit Points
+
+| Week | Assignment | Points | Running Total |
+| :--: | :----------| -----: | ------------: |
+| 01 | Lab 01 | 25 |  25 |
+| 02 | Lab 02 | 25 |  50 |
+| 03 | Lab 03 | 25 |  75 |
+| 04 | Lab 04 | 25 | 100 |
+| 05 | Lab 05 | 25 | 125 |
+| 06 | Lab 06 | 25 | 150 |
+| 08 | Lab 07 | 25 | 175 |
+| 09 | Lab 08 | 25 | 200 |
+| 10 | Lab 09 | 25 | 225 |
+| 11 | Lab 10 | 25 | 250 |
+| 12 | Lab 11 | 25 | 275 |
+| 14 | Lab 12 | 25 | 300 |
+
+:exclamation: If you have a concern about a score on any assignment, believe we've missed something and want us to check, or desire a score explanation or re-grade, please contact your GSI.
 
 ### Late Policy
 
@@ -271,23 +281,23 @@ Total points earned in the course will translate to the following letter grades:
 
 | Grade | Points | Percentage |
 | :---- | -----: | :--------- |
-| A+ | 14550 | 97% |
-| A | 13950 | 93% |
-| A- | 13500 | 90% |
-| B+ | 13050 | 87% |
-| B | 12600 | 84% |
-| B- | 12150 | 81% |
-| C+ | 11700 | 78% |
-| C | 11250 | 75% |
-| C- | 10800 | 72% |
-| D+ | 10350 | 69% |
-| D | 9900	| 66% |
-| D- | 9450	| 63% |
-| E | < 9450 | |
+| A+ | 4850 | 97% |
+| A | 4650 | 93% |
+| A- | 4500 | 90% |
+| B+ | 4350 | 87% |
+| B | 4150 | 84% |
+| B- | 4000 | 81% |
+| C+ | 3850 | 78% |
+| C | 3650 | 75% |
+| C- | 3500 | 72% |
+| D+ | 3350 | 69% |
+| D | 3150	| 66% |
+| D- | 3000	| 63% |
+| E | <= 2999 | |
 
-:exclamation: Total points earned that fall between any of the points/letter grade thresholds listed above will result in the _lower_ of the two letter grades being awarded. _Example_: 13700 points earned translates to an A- not an A.
+:exclamation: Total points earned that fall between any of the points/letter grade thresholds listed above will result in the _lower_ of the two letter grades being awarded. _Example_: 4600 points earned translates to an A- not an A.
 
-:warning: Given that SI 506 is a required course, a Grade of D+ or less will not count for degree credit and the course will need to be repeated. See the MHI and MSI Student handbook's "Grades and Grading Policy" for a more complete description of letter grades and their interpretation.
+:warning: Recall that SI 506 is a required course. As such, a Grade of D+ or less in the course will not count for degree credit and SI 506 will need to be repeated. See the MHI and MSI Student handbook's "Grades and Grading Policy" for a more complete description of letter grades and their interpretation.
 
 ## Academic Integrity and Misconduct
 
