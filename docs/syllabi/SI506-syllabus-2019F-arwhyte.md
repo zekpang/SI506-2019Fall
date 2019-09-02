@@ -46,7 +46,7 @@ Pronoun preference: he/him/his
 | Ihudiya Finda Ogbonnaya-Ogburu | GSI | <iogburu@umich.edu> | she/hers/her |
 | Bryan Romas | GSI | <bromas@umich.edu> | he/him/his |
 | Rob Rumble | GSI | <rumbler@umich.edu> | |
-| Andrew Vande Guchte | GSI | <avandegu@umich.edu> | |
+| Andrew Vande Guchte | GSI | <avandegu@umich.edu> | he/him/his |
 | Sansitha Nandakumar | IA | <sansitha@umich.edu> | she/hers/her |
 | Yangtao 'Max' Zhang | IA | <maxzhang@umich.edu> | |
 
