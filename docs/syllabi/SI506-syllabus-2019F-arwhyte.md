@@ -134,7 +134,8 @@ Optional office hour sessions are staffed by 1-2 members of the teaching team. I
 | Ihudiya Finda Ogbonnaya-Ogburu, Pei-Yao Hung | Tuesday | 3:00-4:00 PM | Central Campus | North Quad (NQ) | 1270 |
 | Ihudiya Finda Ogbonnaya-Ogburu, Yan Chen | Tuesday | 5:30-6:30 PM | Central Campus | North Quad (NQ) | 1270 |
 | Gabriel Grill, Bryan Romas | Wednesday | 1:00-2:30 PM | Central Campus | North Quad (NQ) | 1278 |
-| Pei-Yao Hung, Yan Chen | Wednesday | 4:30-5:30 PM | Central Campus | North Quad (NQ) | 1278 |
+| Pei-Yao Hung | Wednesday | 4:30-5:30 PM | Central Campus | North Quad (NQ) | 1278 |
+| Yan Chen | Wednesday | 6:00-7:00 PM | Central Campus | North Quad (NQ) | 1274 |
 | Anthony Whyte | Thursday | 5:30-7:00 PM | Central Campus | North Quad (NQ) | 1278 |
 | Andrew vande Guchte, Rob Rumble | Friday | 10:00-11:30 AM | Central Campus | North Quad (NQ) | 1243 |
 
