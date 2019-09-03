@@ -186,7 +186,7 @@ Many of the texts will be sourced from O'Reilly, a prodigious publisher of compu
 
 Problem sets comprising one or more programming problems to be solved using Python will be assigned weekly. Each programming assignment provides an opportunity to write code, solve programming problems, and demonstrate your increasing fluency in the language.
 
-You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Sunday evening at 11:59 PM Eastern time.
+You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Monday evening at 11:59 PM Eastern time.
 
 ### Labs
 
@@ -229,7 +229,7 @@ The weekly problem sets are designed to prepare you for submitting a final proje
 | Office Hours | 29 November | Friday | Cancelled | Thanksgiving recess. |
 | Lecture | 10 December | Tuesday | Scheduled | Last lecture. Classes end officially on Wednesday, 11 December. |
 | Study day | 12 December | Thursday | Scheduled | Per University Academic Calendar. |
-| __Final Project__ | 15 December | Sunday | Scheduled | Online submission. Due no later than 15 December, 11:59 PM Eastern. |
+| __Final Project__ | 16 December | Monday | Scheduled | Online submission. Due no later than 15 December, 11:59 PM Eastern. |
 
 ## Assignment Scoring
 
