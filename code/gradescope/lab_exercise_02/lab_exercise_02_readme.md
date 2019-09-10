@@ -4,8 +4,7 @@ This week's lab exercise includes two (2) one to two line problems that focus on
 creation and value assignment, string concatenation, and use a certain built-in function 
 discussed in the lectures and the readings.
 
-Retrieve the lab exercise 02 template file at 
-[https://github.com/umsi-arwhyte/SI506-2019Fall/code/gradescope/lab_exercise_02.py](https://github.com/umsi-arwhyte/SI506-2019Fall/code/gradescope/lab_exercise_02.py)
+Retrieve the lab exercise 02 template file and README at [https://github.com/umsi-arwhyte/SI506-2019Fall/tree/master/code/gradescope/lab_exercise_02](https://github.com/umsi-arwhyte/SI506-2019Fall/tree/master/code/gradescope/lab_exercise_02)
 
 When you have completed the problem set click on the Gradescope link in Canvas and upload your 
 `lab_exercise_02.py` file to the Gradescope site.  Your submission will be auto-graded and any runtime 
