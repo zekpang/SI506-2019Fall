@@ -4,8 +4,7 @@ This week's problem set includes six (6) one to two line problems that focus on 
 creation and value assignment, string concatenation, use of arithmetic operators, and use 
 of certain built-in functions discussed in the lectures and the readings.
 
-Retrieve the problem set 01 template file at 
-[https://github.com/umsi-arwhyte/SI506-2019Fall/code/gradescope/problem_set_01.py](https://github.com/umsi-arwhyte/SI506-2019Fall/code/gradescope/problem_set_01.py)
+Retrieve the problem set 01 template file and README at [https://github.com/umsi-arwhyte/SI506-2019Fall/tree/master/code/gradescope/problem_set_01](Retrieve the problem set 01 template file and README at https://github.com/umsi-arwhyte/SI506-2019Fall/tree/master/code/gradescope/problem_set_01)
 
 When you have completed the problem set click on the Gradescope link in Canvas and upload your 
 `problem_set_01.py` file to the Gradescope site.  Your submission will be auto-graded and any runtime 
