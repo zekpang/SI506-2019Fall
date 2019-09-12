@@ -113,7 +113,7 @@ Please attend the lab section to which you have been assigned. We recognize that
 | SI 506-003 | Tuesday | 5:30-7:00* PM | Central Campus | Modern Languages Building (MLB) | B134 | Gabriel Grill |
 | SI 506-004 | Wednesday | 10:00-11:30* AM | The Hill Area | Thomas Francis, Jr Building, School of Public Health II (SPH2) | 4332 | Ihudiya Finda Ogbonnaya-Ogburu |
 | SI 506-005 | Wednesday | 10:00-11:30* AM | Central Campus | Modern Languages Building (MLB) | 2114 | Andrew Vande Guchte |
-| SI 506-006 | Wednesday | 2:30-4:00* PM | Central Campus | North Quad (NQ) | 1265 | Andrew Vande Guchte |
+| SI 506-006 | Wednesday | 2:30-4:00* PM | Central Campus | North Quad (NQ) | 1265 | Bryan Romas |
 | SI 506-007 | Wednesday | 2:30-4:00* PM | Central Campus | Mason Hall (MH) | 1469 | Rob Rumble |
 | SI 506-008 | Thursday | 10:00-11:30* AM | Central Campus | Mason Hall (MH) | 1401 | Pei-Yao Hung |
 | SI 506-009 | Thursday | 10:00-11:30* AM | Central Campus | Undergraduate Science Building (USB) | 1250 | Rob Rumble |
@@ -186,13 +186,13 @@ Many of the texts will be sourced from O'Reilly, a prodigious publisher of compu
 
 Problem sets comprising one or more programming problems to be solved using Python will be assigned weekly. Each programming assignment provides an opportunity to write code, solve programming problems, and demonstrate your increasing fluency in the language.
 
-You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Monday evening at 11:59 PM Eastern time.
+You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than the following Monday evening at 11:59 PM Eastern time.
 
 ### Labs
 
 GSI-led labs are designed to both reinforce and explore further programming concepts and topics discussed during the lectures. Labs require active participation to be effective. Discussion, Q&A, and problem-solving activities will predominate.
 
-Weekly labs will feature an exercise worth 25 points of extra credit. The points are earned by submitting code or a related deliverable at the end of each session. Scoring is based on the attempt rather than correctness.
+Weekly labs will feature an exercise worth 25 points of extra credit. The points are earned by submitting code or a related deliverable. Lab exercises will be released on Tuesday and must be completed and submitted no later than the following Monday evening at 11:59 PM Eastern time. Scoring is based on the attempt rather than correctness.
 
 :exclamation: Attend the labs and do the lab exercises. You can earn up to 300 extra credit points which can boost a final grade considerably.
 
