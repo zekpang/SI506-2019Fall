@@ -186,13 +186,13 @@ Many of the texts will be sourced from O'Reilly, a prodigious publisher of compu
 
 Problem sets comprising one or more programming problems to be solved using Python will be assigned weekly. Each programming assignment provides an opportunity to write code, solve programming problems, and demonstrate your increasing fluency in the language.
 
-You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than Monday evening at 11:59 PM Eastern time.
+You can earn up to 150 points per problem set completed and submitted. Submissions are scored using an auto grader, itself written in Python. Problem set assignments will be released on Tuesday and must be completed and submitted no later than the following Monday evening at 11:59 PM Eastern time.
 
 ### Labs
 
 GSI-led labs are designed to both reinforce and explore further programming concepts and topics discussed during the lectures. Labs require active participation to be effective. Discussion, Q&A, and problem-solving activities will predominate.
 
-Weekly labs will feature an exercise worth 25 points of extra credit. The extra credit points are earned by submitting code or a related deliverable by the deadline indicated in Canvas. Scoring is based on the attempt rather than correctness.
+Weekly labs will feature an exercise worth 25 points of extra credit. The points are earned by submitting code or a related deliverable. Lab exercises will be released on Tuesday and must be completed and submitted no later than the following Monday evening at 11:59 PM Eastern time. Scoring is based on the attempt rather than correctness.
 
 :exclamation: Attend the labs and do the lab exercises. You can earn up to 300 extra credit points which can boost a final grade considerably.
 
