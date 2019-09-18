@@ -6,7 +6,7 @@ print('Lab Exercise 03 \n')
 # for today, the teaching team has provided this list for you to use.
 #
 # Data description:
-#
+#d
 # Each item in the umsi_faculty list is a string containing the name, title, and email address of
 # the faculty member. Each piece of information relating to the faculty member is separated by a
 # pipe ('|') delimiter.
